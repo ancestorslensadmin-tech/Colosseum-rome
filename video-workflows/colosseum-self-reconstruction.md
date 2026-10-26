@@ -23,4 +23,4 @@ Multi-shot self-reconstruction timelapse, 12 seconds. Keep the Colosseum and cam
 
 - VideoExpress video ID: `2a3c71b0-1136-43d2-a994-b359e3cdd15d`
 - VideoExpress starting-frame ID: `a0c8355e-2bfb-4e7a-b5bf-e660f3632e52`
-- Status: Generated video added to the saved VideoExpress timeline. The separate MP4 export was queued in the background and was not confirmed downloaded at last check.
+- MP4: [colosseum-self-reconstruction.mp4](colosseum-self-reconstruction.mp4) (committed to this repository).
